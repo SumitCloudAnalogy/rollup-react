@@ -1,9 +1,7 @@
 import React, { memo} from 'react';
 
 const Header = memo((props) => (
-    <div>
-        <h1>Header</h1>
-    </div>
+        <h1>Hello World!</h1>
 ));
 
 export default Header;
